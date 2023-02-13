@@ -7,7 +7,7 @@ This project aims to demonstrate the application of transfer learning by fine-tu
 ![Category and Subcategory](https://img.shields.io/badge/Neuronal%20Networks-DCN%20Deep%20Convulutional%20Network-yellow)
 
 ## 🖼️ Images of the Project:
-<img align="center" alt="jpg" src="https://raw.githubusercontent.com/moreno32/ResNet50-Transfer-Learning-on-the-CIFAR-10-Dataset/master/reports/figures/CIFAR-10%20Dataset.png" width="500" height="386" /><br>
+<img src="https://raw.githubusercontent.com/moreno32/ResNet50-Transfer-Learning-on-the-CIFAR-10-Dataset/master/reports/figures/CIFAR-10%20Dataset.png?token=GHSAT0AAAAAAB3PXF5PIYE4EQ2JUH436AHMY7J2VKA" alt="banner that says Daniel Moreno">
 
 ## 🎊 Motivation:
 Transfer learning has become a popular method in deep learning, allowing researchers and practitioners to leverage the knowledge gained from pre-trained models to perform well on new tasks with limited training data. By applying transfer learning on the ResNet50 model on the CIFAR-10 dataset, this project showcases the effectiveness and efficiency of transfer learning in practice.
